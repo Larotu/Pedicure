@@ -1,0 +1,7 @@
+{
+  "name": "SanaPed - Medical Pedicure Excellence",
+  "description": "A luxury medical podiatry and pedicure landing page featuring treatment menus, process walkthroughs, and an integrated AI foot health consultant.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
